@@ -1,11 +1,17 @@
 * {
-  background-color: DFF5FF;
   font-family: "Roboto Condensed", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+  color: grey;
+  background-color: white;
+  text-align: center;
 }
 
-h1 {
-  color: 5356FF;
+li {
+  list-style-position: inside ;
+}
+
+#header1 {
+  color: black;
 }
