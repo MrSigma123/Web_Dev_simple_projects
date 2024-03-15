@@ -1,7 +1,11 @@
 * {
-    background-color: DFF5FF;
+  background-color: DFF5FF;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
 
 h1 {
-    color: 5356FF;
+  color: 5356FF;
 }
