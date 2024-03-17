@@ -4,3 +4,11 @@
   font-weight: 400;
   font-style: normal;
 }
+
+#best {
+  color: green;
+}
+
+#worst {
+  color: red;
+}
