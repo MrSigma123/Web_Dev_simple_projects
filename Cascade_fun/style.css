@@ -3,7 +3,19 @@
 }
 
 h1 {
-  font-size: 24px;
-  color: #333333;
+  font-size: 34px;
   font-style: normal;
+}
+
+h2 {
+  font-size: 24px;
+  font-style: italic;
+}
+
+.prime {
+  color: red;
+}
+
+#two {
+  color: green;
 }
