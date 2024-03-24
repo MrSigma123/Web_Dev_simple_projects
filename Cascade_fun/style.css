@@ -23,3 +23,7 @@ h2 {
 .letters {
   color: grey;
 }
+
+.highlighted li {
+  color: lightblue;
+}
