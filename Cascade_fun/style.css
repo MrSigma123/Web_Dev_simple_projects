@@ -27,3 +27,7 @@ h2 {
 .highlighted li {
   color: lightblue;
 }
+
+#emphasis {
+  color: red;
+}
