@@ -1,0 +1,13 @@
+.white_background {
+  background-color: white;
+  height: 600px;
+  width: 900px;
+  border: 1px solid black;
+}
+
+.red_circle {
+  background-color: red;
+  height: 360px;
+  width: 360px;
+  border-radius: 50%;
+}
