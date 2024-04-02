@@ -6,7 +6,7 @@
 }
 
 .red_circle {
-  background-color: red;
+  background-color: rgb(188, 0, 45);
   height: 360px;
   width: 360px;
   border-radius: 50%;
